@@ -3,11 +3,11 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 # Configs
-API_HASH = os.environ['API_HASH']
-APP_ID = int(os.environ['APP_ID'])
-BOT_TOKEN = os.environ['BOT_TOKEN']
-TRACK_CHANNEL = int(os.environ['TRACK_CHANNEL'])
-OWNER_ID = os.environ['OWNER_ID']
+API_HASH = os.environ['24155199']
+APP_ID = int(os.environ['418866e765a1494d4aaade9282c9470e'])
+BOT_TOKEN = os.environ['6116417010:AAFU-Ta1w1tar4-rR8Ox30RgSDV72_1IkmU']
+TRACK_CHANNEL = int(os.environ['-1001827229996:-1001992332883'])
+OWNER_ID = os.environ['2133811513']
 
 #Button
 START_BUTTONS=[
